@@ -43,6 +43,11 @@ button {
   background-color: rgb(220, 64, 64);
 }
 
+.grey {
+  width: 150px;
+  height: 50px;
+}
+
 .restar:hover{
   background-color: rgb(130, 4, 12);
   color: white;
@@ -53,6 +58,11 @@ button {
 }
 .cero:hover{
   background-color: rgb(2, 87, 26);
+  color: white;
+}
+
+.grey:hover {
+  background-color: #464747;
   color: white;
 }
 
@@ -68,3 +78,5 @@ button {
     transform: rotate(360deg);
   }
 }
+
+
